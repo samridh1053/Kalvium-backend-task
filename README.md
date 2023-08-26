@@ -1,6 +1,7 @@
 # Math Operation Server Documentation
 
 The Math Operation Server is a simple web application that allows you to perform basic mathematical operations via URLs and provides a history of your calculations. You can also view the history of your calculations, clear the history, and calculate the average of the results.
+See the demo video here: [Demo video](https://www.loom.com/share/e90887bfc2624b99bf66eb85846a3288?sid=aa8b1b71-fe14-4008-88f5-c686120ca021)
 
 ## Getting Started
 
@@ -41,8 +42,6 @@ In addition to the basic operations, the Math Operation Server also supports the
 - Modulus: Use the `mod` operator to find the remainder of a division.
 - Division: Use the `divide` operator to perform division between numbers.
 - Exponentiation: Use the `power` operator to calculate the power of a number.
-
-See the demo video here: [Demo video](https://www.loom.com/share/e90887bfc2624b99bf66eb85846a3288?sid=aa8b1b71-fe14-4008-88f5-c686120ca021)
 ### Viewing History
 
 - To view the history of calculations, click on the "View History" link on the website or visit: http://localhost:3000/history.
