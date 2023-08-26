@@ -34,6 +34,14 @@ To perform mathematical operations, you can use the website's interface or compo
 
 Replace `num1` and `num2` with your desired numbers and use the respective operator keywords.
 
+### Additional Mathematical Operations
+
+In addition to the basic operations, the Math Operation Server also supports the following additional operations:
+
+- Modulus: Use the `mod` operator to find the remainder of a division.
+- Division: Use the `divide` operator to perform division between numbers.
+- Exponentiation: Use the `power` operator to calculate the power of a number.
+
 ### Viewing History
 
 - To view the history of calculations, click on the "View History" link on the website or visit: http://localhost:3000/history.
@@ -57,11 +65,3 @@ Replace `num1` and `num2` with your desired numbers and use the respective opera
 ## Credits
 
 Math Operation Server was created using Express.js and Node.js.
-
-## Troubleshooting
-
-If you encounter any issues while running the server, please refer to the official documentation of Node.js and Express.js for troubleshooting steps.
-
-## Feedback and Contributions
-
-We welcome your feedback and contributions to improve the Math Operation Server. Feel free to create pull requests or open issues on the [GitHub repository](https://github.com/samridh1053/Kalvium-backend-task) for this project.
