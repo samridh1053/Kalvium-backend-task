@@ -42,6 +42,7 @@ In addition to the basic operations, the Math Operation Server also supports the
 - Division: Use the `divide` operator to perform division between numbers.
 - Exponentiation: Use the `power` operator to calculate the power of a number.
 
+See the demo video here: [Demo video](https://www.loom.com/share/e90887bfc2624b99bf66eb85846a3288?sid=aa8b1b71-fe14-4008-88f5-c686120ca021)
 ### Viewing History
 
 - To view the history of calculations, click on the "View History" link on the website or visit: http://localhost:3000/history.
